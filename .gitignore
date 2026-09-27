@@ -36,4 +36,5 @@ reports_storage/
 .vscode/
 .idea/
 .DS_Store
-Thumbs.db
+# Vercel
+.vercel/
